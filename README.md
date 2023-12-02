@@ -30,8 +30,44 @@ The Multi-Speciality Hospital Management System is a web application that utiliz
 
 <img src="https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App/blob/main/output/2.png" >
 
+### Multi-Speciality-Patients Dashboard 
+
+<img src="https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App/blob/main/output/3.png" >
+
+### Multi-Speciality- Departments Dashboard 
+
+<img src="https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App/blob/main/output/4.png" >
+
+### Multi-Speciality-Employees Dashboard 
+
+<img src="https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App/blob/main/output/5.png" >
 
 
+Frontend:
+* HTML for structured web page layout.
+* CSS for visually appealing and consistent styling.
+* JavaScript for interactive features, potentially using frameworks like React, Angular, or Vue.js.
+* 
+Backend:
+* PHP for server-side scripting to handle user requests and interact with the database.
+* Ability to manage form data, sessions, and database connections.
+* 
+Database:
+* MySQL or another relational database for storing and retrieving data.
+* Well-designed database schema with tables for patients, doctors, appointments, and medical records, establishing necessary relationships.
+* 
+Server-Side Scripting:
+* Use PHP to process user requests, manage form submissions, and interact with the database.
+
+## FUTURE PLANS 📈
+ In the future I will try to add even more models or attributes.
+
+## CONTRIBUTE 💻
+You can use this project for further developing it and adding your work in it. If you use this project, kindly mention the original source of the project and mention the link of this repo in your report.
+Please read [CONTRIBUTING.md](https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App) for details on our code of conduct, and the process for submitting pull requests to us.
+
+## Contact 📞
+ If you have any doubt or want to contribute feel free to hit me up on [Gmail](hirthicksofficial@gmail.com)
 
 
 
