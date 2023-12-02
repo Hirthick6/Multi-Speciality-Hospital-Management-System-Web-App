@@ -67,7 +67,7 @@ You can use this project for further developing it and adding your work in it. I
 Please read [CONTRIBUTING.md]  (https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App) for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Contact 📞
- If you have any doubt or want to contribute feel free to hit me up on [Gmail] (hirthicksofficial@gmail.com)
+ If you have any doubt or want to contribute feel free to hit me up on [Gmail] (hirthicksofficial@gmail.com) and (pnandhini@gmail.com)
 
 
 
