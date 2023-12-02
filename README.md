@@ -23,8 +23,12 @@ The Multi-Speciality Hospital Management System is a web application that utiliz
 
 ### Multi-Speciality-Hospital-Management Dashboard 
 
+<img src="https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App/output/1.png" >
 
 
+### Multi-Speciality-Doctors Dashboard 
+
+<img src="https://github.com/Hirthick6/Multi-Speciality-Hospital-Management-System-Web-App/output/2.png" >
 
 
 
